@@ -9,5 +9,9 @@ parte 1
 parte 2
 <img width="1907" height="870" alt="image" src="https://github.com/user-attachments/assets/fc7c6abb-0477-4213-a9ff-327cabfab859" />
 
+## Exercício 3:
+<img width="1919" height="588" alt="image" src="https://github.com/user-attachments/assets/ce420c9a-855a-4aa7-a311-adeaff59d61c" />
+
+
 
 
