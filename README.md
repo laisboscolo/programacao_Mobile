@@ -23,7 +23,6 @@ funcionando:
 ## Exercício 5a:
 <img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/ebdca7e4-f09c-4695-acf5-9b75a23ff0ad" />
 funcionando:
-
 <img width="570" height="826" alt="image" src="https://github.com/user-attachments/assets/c2838416-aba8-4f38-aed8-111db20087d2" />
 
 ## Exercício 6:
