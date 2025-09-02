@@ -27,12 +27,22 @@ funcionando:
 
 ## Exercício 6:
 <img width="725" height="548" alt="image" src="https://github.com/user-attachments/assets/56917cce-f459-4664-a7f9-a5703973c6dc" />
-funcionando:
+funcionando: 👆
 
 <img width="728" height="521" alt="image" src="https://github.com/user-attachments/assets/18fd1dda-f3b3-44be-af1c-698ff36c8f68" />
 
 ## Exercício 7:
-<img width="1699" height="607" alt="image" src="https://github.com/user-attachments/assets/22cd786c-2813-454e-b4ff-4bcc17ff05e8" />
+<img width="1660" height="674" alt="image" src="https://github.com/user-attachments/assets/9ae7c59a-3712-416a-91d5-9df06f5cc4b8" />
+funcionando:
+<img width="1693" height="585" alt="image" src="https://github.com/user-attachments/assets/a6cc6f27-1a30-48d3-a9e0-bda8ecfadd75" />
+
+## Exercício 8:
+<img width="1688" height="772" alt="image" src="https://github.com/user-attachments/assets/78c76db3-993e-4e0a-a33d-8610ac8ba061" />
+funcionando :
+<img width="1688" height="776" alt="image" src="https://github.com/user-attachments/assets/61ba8408-5012-4965-8b7c-e6a16efb66fa" />
+
+
+
 
 
 
