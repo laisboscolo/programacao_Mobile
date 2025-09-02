@@ -17,6 +17,14 @@ parte 2
 funcionando:
 <img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/a6bd3f41-01c9-444f-ae15-9f0b273198f3" />
 
+## Exercício 5:
+<img width="1919" height="779" alt="image" src="https://github.com/user-attachments/assets/d3dad710-2375-462c-af62-676027cafb1e" />
+
+## Exercício 5a:
+<img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/ebdca7e4-f09c-4695-acf5-9b75a23ff0ad" />
+
+
+
 
 
 
