@@ -1,4 +1,3 @@
-#  5a Desafio Digitação (Aqui)📚  ⚽ 🎵  🎮 👨‍🍳 🎨 ⚠️ ✨ 🧹 👤 
 import flet as ft
 
 def main(page: ft.Page):
@@ -19,7 +18,14 @@ def main(page: ft.Page):
             ft.dropdown.Option("Música 🎵"),
             ft.dropdown.Option("Jogos 🎮"),
             ft.dropdown.Option("Culinária 🍳"),
-            ft.dropdown.Option("Arte 🎨")
+            ft.dropdown.Option("Arte 🎨"),
+            ft.dropdown.Option("Viagens ✈️"),
+            ft.dropdown.Option("Tecnologia 💻"),
+            ft.dropdown.Option("Cinema 🎬"),
+            ft.dropdown.Option("Fotografia 📸"),
+            ft.dropdown.Option("Jardinagem 🌿"),
+            ft.dropdown.Option("Dança 💃"),
+            ft.dropdown.Option("Outros 🛠️")
         ]
     )
 
@@ -85,7 +91,7 @@ def main(page: ft.Page):
             cor_icone = ft.Colors.PURPLE
 
         cartao_perfil.content = ft.Column([
-            ft.Icon(ft.icons.PERSON, size=60, color=cor_icone),
+            ft.Icon(ft.Icons.PERSON, size=60, color=cor_icone),
             ft.Text(campo_nome.value, size=20, weight=ft.FontWeight.BOLD),
             ft.Text(f"{idade} anos ({categoria})", size=14, color=ft.Colors.GREY_600),
             ft.Text(f"Hobby: {dropdown_hobby.value}", size=14),

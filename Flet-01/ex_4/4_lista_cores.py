@@ -35,7 +35,8 @@ def main(page: ft.Page):
             "Vermelho":ft.Colors.RED,
             "Roxo":ft.Colors.PURPLE,
             "Laranja": ft.Colors.ORANGE,
-            "Rosa": ft.Colors.PINK
+            "Rosa": ft.Colors.PINK,
+            "Amarelo": ft.Colors.YELLOW
         }
 
         # Mudando a cor da caixa
@@ -52,9 +53,10 @@ def main(page: ft.Page):
             ft.dropdown.Option("Azul"),
             ft.dropdown.Option("Verde"),
             ft.dropdown.Option("Vermelho"),
-            ft.fropdown.Option("Roxo"),
+            ft.dropdown.Option("Roxo"),
             ft.dropdown.Option("Laranja"),
-            ft.dropdown.Option("Rosa")
+            ft.dropdown.Option("Rosa"),
+            ft.dropdown.Option("Amarelo")
         ],
         on_change=cor_selecionada
     )

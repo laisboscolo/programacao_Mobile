@@ -107,9 +107,65 @@ def main(page: ft.Page):
             "cor": ft.Colors.CYAN_400, 
             "categoria": "Aquático", 
             "tamanho": "Grande"
+        },
+        {
+            "nome": "Sapo",
+            "emoji": "🐸",
+            "descricao": "Anfíbio que vive em ambientes úmidos",
+            "cor": ft.Colors.GREEN_400,
+            "categoria": "Aquático",
+            "tamanho": "Pequeno"
+        },
+        {
+            "nome": "Macaco",
+            "emoji": "🐒",
+            "descricao": "Mamífero ágil que vive em árvores",
+            "cor": ft.Colors.BROWN_400,
+            "categoria": "Terrestre",
+            "tamanho": "Médio"
+        },
+        {
+            "nome": "Girafa",
+            "emoji": "🦒",
+            "descricao": "Mamífero terrestre de pescoço longo",
+            "cor": ft.Colors.AMBER_400,
+            "categoria": "Terrestre",
+            "tamanho": "Grande"
+        },
+        {
+            "nome": "Pinguim",
+            "emoji": "🐧",
+            "descricao": "Ave marinha que não voa",
+            "cor": ft.Colors.BLUE_400,
+            "categoria": "Aquático",
+            "tamanho": "Médio"
+        },
+        {
+            "nome": "Elefante",
+            "emoji": "🐘",
+            "descricao": "Maior mamífero terrestre",
+            "cor": ft.Colors.GREY_600,
+            "categoria": "Terrestre",
+            "tamanho": "Gigante"
+        },
+        {
+            "nome": "Cavalo",
+            "emoji": "🐴",
+            "descricao": "Mamífero usado para transporte e trabalho",
+            "cor": ft.Colors.BROWN_500,
+            "categoria": "Terrestre",
+            "tamanho": "Grande"
+        },
+        {
+            "nome": "Coruja",
+            "emoji": "🦉",
+            "descricao": "Ave noturna de visão aguçada",
+            "cor": ft.Colors.INDIGO_400,
+            "categoria": "Selvagem",
+            "tamanho": "Médio"
         }
     ]
-    
+        
     # Criação dos elementos visuais da interface
     
     # GridView = uma grade que organiza os cards em colunas e linhas automaticamente
@@ -131,7 +187,8 @@ def main(page: ft.Page):
             ft.dropdown.Option("Todos"), 
             ft.dropdown.Option("Doméstico"), 
             ft.dropdown.Option("Selvagem"), 
-            ft.dropdown.Option("Aquático")
+            ft.dropdown.Option("Aquático"),
+            ft.dropdown.Option("Terrestre")
         ]
     )
     

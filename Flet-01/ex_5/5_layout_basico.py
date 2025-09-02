@@ -23,13 +23,14 @@ def main(page: ft.Page):
         alignment=ft.MainAxisAlignment.CENTER,
         spacing=20
     )
+    # controls = vetor
 
     caixa1 = ft.Container(
         content=ft.Text("Caixa 1", color=ft.Colors.WHITE),
         bgcolor=ft.Colors.PURPLE,
         width=200,
         height=50,
-        aligment=ft.alignment.center,
+        alignment=ft.alignment.center,
         border_radius=5
     )
 
@@ -59,7 +60,7 @@ def main(page: ft.Page):
             coluna_caixas,
             ft.Text("Layout organizado!", size=14, color=ft.Colors.GREEN)
         ],
-        horizontal_aligment=ft.CrossAxisAlignment.CENTER,
+        horizontal_alignment=ft.CrossAxisAlignment.CENTER,
         spacing=25
     )
 
