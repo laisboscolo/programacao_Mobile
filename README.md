@@ -25,6 +25,11 @@ funcionando:
 funcionando:
 <img width="570" height="826" alt="image" src="https://github.com/user-attachments/assets/c2838416-aba8-4f38-aed8-111db20087d2" />
 
+## Exercício 6
+<img width="725" height="548" alt="image" src="https://github.com/user-attachments/assets/56917cce-f459-4664-a7f9-a5703973c6dc" />
+funcionando:
+<img width="728" height="521" alt="image" src="https://github.com/user-attachments/assets/18fd1dda-f3b3-44be-af1c-698ff36c8f68" />
+
 
 
 
